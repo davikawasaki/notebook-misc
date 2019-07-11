@@ -34,3 +34,7 @@ Personal public notes and relevant knowledge-gathering regarding my study path t
 ## Safe Options
 
 ## Others
+| Title | About | Type | Level(s) | Location Coverage | Extra Resources |
+|-------|-------|------|----------|-------------------|-----------------|
+| [Nasdaq Nordic](http://www.nasdaqomxnordic.com/) | Nasdaq shares and financial topics for Nordic countries. | Portal | Intermediary to Advanced | North Europe | |
+| [InfoMoney](https://www.infomoney.com.br/) | News portal with financial info from Brazilian stock markets. | News | Intermediary to Advanced | Brazil | |

@@ -29,6 +29,12 @@ Personal public notes and relevant knowledge-gathering regarding my study path t
 
 ### Front-end
 
+| Title | About | Type | Language(s) | Framework(s) | Extra Resources |
+|-------|-------|------|-------------|--------------|-----------------|
+| [Storybook](https://storybook.js.org/) | Storybook is an open source tool for developing UI components in isolation for React, Vue, and Angular. It makes building stunning UIs organized and efficient. | Library Website | Javascript | ReactJS, VueJS, AngularJS | |
+| [GraphQL](https://graphql.org/) | GraphQL is a query language for APIs and a runtime for fulfilling those queries with your existing data. | Language Website | JSON | GraphQL | |
+| [Apollo](https://www.apollographql.com/) | A single versatile query system to replace a patchwork of legacy APIs, with all the devtools and cloud services you need to run GraphQL at scale | Library Website | JSON | GraphQL | |
+
 ### Back-end
 
 ## Desktop Development
@@ -47,6 +53,8 @@ Personal public notes and relevant knowledge-gathering regarding my study path t
 |-------|-------|------|-------------|--------------|-----------------|
 | [Keycloak](https://www.keycloak.org/documentation.html) | Open-source identity and access management for modern applications and services using standard auth protocols. | Docs | Java, REST | | |
 | [Keycloak Course](https://www.katacoda.com/keycloak) | A serie of scenarios that will teach you how to setup and use Keycloak. | Tutorials | | | |
+| [Layer7 API Gateway](https://www.ca.com/us/products/apim/gateway.html) | Secure and govern APIs with an API Gateway (formerly called CA API Gateway). | Solution Website | | | |
+| [Netifly](https://www.netlify.com/) | Netlify is everything you need to build fast, modern websites: continuous deployment, serverless functions, and so much more. | Solution Website | | | |
 
 ## Cloud Services
 
@@ -72,3 +80,8 @@ Personal public notes and relevant knowledge-gathering regarding my study path t
 ## Integrations
 
 ## Others
+
+| Title | About | Type | Language(s) | Extra Resources |
+|-------|-------|------|-------------|-----------------|
+| [TogetherJS](https://togetherjs.com/) | TogetherJS is a free, open source JavaScript library by Mozilla that adds collaboration features and tools to your website. | Tool | | |
+| [Spectrum Chat](https://spectrum.chat/about) | By building on Spectrum, communities become easily discoverable through search, curation, and even other community members. It also means no more managing multiple logins or playing whack-a-mole with different notifications and preferences. | Chat | | |
